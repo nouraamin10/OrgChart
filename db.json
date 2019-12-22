@@ -1,0 +1,7 @@
+{
+"OrgChart": {
+            "Name": "John Smith", "Title": "President", "PicURL": "http://paww.lotusmarketingsolutions.com/media/uploads/2015/12/male-silhouette.jpg",
+            "Childs": [{ "Name": "Smith2", "Title": "President", "PicURL": "http://paww.lotusmarketingsolutions.com/media/uploads/2015/12/male-silhouette.jpg" },
+             { "Name": "Smith3", "Title": "President", "PicURL": "http://paww.lotusmarketingsolutions.com/media/uploads/2015/12/male-silhouette.jpg" }]
+        }
+}
