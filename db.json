@@ -1,7 +1,7 @@
 {
 "OrgChart": {
-            "Name": "John Smith", "Title": "President", "PicURL": "http://paww.lotusmarketingsolutions.com/media/uploads/2015/12/male-silhouette.jpg",
-            "Childs": [{ "Name": "Smith2", "Title": "President", "PicURL": "http://paww.lotusmarketingsolutions.com/media/uploads/2015/12/male-silhouette.jpg" },
-             { "Name": "Smith3", "Title": "President", "PicURL": "http://paww.lotusmarketingsolutions.com/media/uploads/2015/12/male-silhouette.jpg" }]
+            "Name": "John Smith", "Title": "President", "PicURL": "/Style%20Library/MyIntranet/Images/profileImage.jpg",
+            "Childs": [{ "Name": "Smith2", "Title": "President", "PicURL": "/Style%20Library/MyIntranet/Images/profileImage.jpg" },
+             { "Name": "Smith3", "Title": "President", "PicURL": "/Style%20Library/MyIntranet/Images/profileImage.jpg" }]
         }
 }
